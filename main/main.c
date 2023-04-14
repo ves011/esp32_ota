@@ -21,7 +21,7 @@
 #include "wear_levelling.h"
 #include "esp_console.h"
 #include "driver/gpio.h"
-#include "protocol_examples_common.h"
+//#include "protocol_examples_common.h"
 #include "errno.h"
 #include "esp_spi_flash.h"
 #include "esp_spiffs.h"
