@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../esp32_common"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.embeddedhtml": "html",
+			"esp_vfs_fat.h": "c",
+			"utils.h": "c",
+			"cmd_system.h": "c",
+			"ota.h": "c",
+			"external_defs.h": "c",
+			"dirent.h": "c",
+			"stat.h": "c",
+			"netdb.h": "c"
+		}
+	}
+}
