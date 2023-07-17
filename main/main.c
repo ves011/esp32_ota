@@ -45,7 +45,7 @@
 
 #define TAG "OTA_FACT"
 #define PROMPT_STR "OTA_FACT"
-#define CONFIG_STORE_HISTORY 1
+#define CONFIG_STORE_HISTORY 0
 #define CONFIG_CONSOLE_MAX_COMMAND_LINE_LENGTH	1024
 
 #include "wifi_credentials.h"
