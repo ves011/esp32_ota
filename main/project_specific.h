@@ -11,6 +11,6 @@
 //#define WITH_CONSOLE
 
 #define ACTIVE_CONTROLLER			OTA_CONTROLLER
-#define CTRL_DEV_ID					1
+#define CTRL_DEV_ID					100
 
 #endif /* MAIN_PROJECT_SPECIFIC_H_ */
